@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprimirArchivoUrbano", "ComprimirArchivoUrbano\ComprimirArchivoUrbano.csproj", "{33AD858F-6806-43E9-B950-142A559E55A8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ComprimirArchivo", "ComprimirArchivo\ComprimirArchivo.vdproj", "{7172A8DE-ACBA-448A-99D3-2CEFCB4025CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33AD858F-6806-43E9-B950-142A559E55A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AD858F-6806-43E9-B950-142A559E55A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AD858F-6806-43E9-B950-142A559E55A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AD858F-6806-43E9-B950-142A559E55A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7172A8DE-ACBA-448A-99D3-2CEFCB4025CC}.Debug|Any CPU.ActiveCfg = Debug
+		{7172A8DE-ACBA-448A-99D3-2CEFCB4025CC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CAFF25C-4AA4-4A27-9F27-E28894DCE49A}
+	EndGlobalSection
+EndGlobal

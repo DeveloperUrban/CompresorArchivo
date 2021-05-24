@@ -1,0 +1,12 @@
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\bin\Release\ComprimirArchivoUrbano.exe.config
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\bin\Release\ComprimirArchivoUrbano.exe
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\bin\Release\ComprimirArchivoUrbano.pdb
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\obj\Release\ComprimirArchivoUrbano.Form1.resources
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\obj\Release\ComprimirArchivoUrbano.Properties.Resources.resources
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\obj\Release\ComprimirArchivoUrbano.csproj.GenerateResource.cache
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\obj\Release\ComprimirArchivoUrbano.csproj.CoreCompileInputs.cache
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\obj\Release\ComprimirArchivoUrbano.csproj.CopyComplete
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\obj\Release\ComprimirArchivoUrbano.exe
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\obj\Release\ComprimirArchivoUrbano.pdb
+C:\Users\URBANO\source\repos\ComprimirArchivoUrbano\ComprimirArchivoUrbano\obj\Release\ComprimirArchivoUrbano.csprojAssemblyReference.cache
